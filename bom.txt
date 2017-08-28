@@ -4,7 +4,12 @@ barrel power plug      | 1      | 161-0725-E
 power                  | 1      | 675-TE10A1203F01
 dht22 + resistor       | 1      | https://www.adafruit.com/product/385
 adafruit-feather-huzzah| 1      | https://www.adafruit.com/product/3046
-dcdc 12v -> 3.3V       | 1      | 919-RO-123.3S
+dcdc 12v -> 3.3V       | 1      | 490-VX7803-500
 terminal block 2pos    | 1      | 651-1729128
 h-bridge               | 1      | 755-BD6230F-E2
 2n2222                 | 2      | 610-2N2222
+resistor 10k           | 3      | 652-CRT0603BY1002EAS
+resistor 200           | 1      | 667-ERA-3AEB201V
+capacitor 0.68uF50V    | 1      | 810-C2012X7R1H684K
+header 16 pos          | 1      | 855-M20-7821642
+header 12 pos          | 1      | 855-M20-7821246
