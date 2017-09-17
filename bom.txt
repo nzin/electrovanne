@@ -6,7 +6,7 @@ dht22 + resistor       | 1      | https://www.adafruit.com/product/385
 adafruit-feather-huzzah| 1      | https://www.adafruit.com/product/3046
 dcdc 12v -> 3.3V       | 1      | 490-VX7803-500
 terminal block 2pos    | 1      | 651-1729128
-h-bridge               | 1      | 755-BD6230F-E2
+h-bridge               | 1      | 755-BA6287F-E2
 2n2222                 | 2      | 610-2N2222
 resistor 10k           | 3      | 652-CRT0603BY1002EAS
 resistor 200           | 1      | 667-ERA-3AEB201V
