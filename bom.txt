@@ -9,7 +9,7 @@ terminal block 2pos    | 1      | 651-1729128
 h-bridge               | 1      | 755-BA6287F-E2
 2n2222                 | 2      | 610-2N2222
 resistor 10k           | 4      | 652-CRT0603BY1002EAS
-resistor 10            | 1      | 594-MCT0603PD1009DP5
+resistor 1k            | 1      | 594-MCT0603PD1001DP5
 capacitor 0.68uF50V    | 1      | 810-C2012X7R1H684K
 header 16 pos          | 1      | 855-M20-7821642
 header 12 pos          | 1      | 855-M20-7821246
