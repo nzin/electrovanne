@@ -2,6 +2,7 @@ description            | number | ref Mouser
 ------------------------------------------------------
 barrel power plug      | 1      | 161-0725-E
 power                  | 1      | 675-TE10A1203F01
+power cord             | 1      | 562-312007-01
 dht22 + resistor       | 1      | https://www.adafruit.com/product/385
 adafruit-feather-huzzah| 1      | https://www.adafruit.com/product/3046
 dcdc 12v -> 3.3V       | 1      | 490-VX7803-500
